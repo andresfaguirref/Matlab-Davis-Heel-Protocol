@@ -1,0 +1,10 @@
+BTS ASCII format
+
+Type:         	Point 1D values
+Measure unit: 	m
+
+Values:       	15
+
+       dTH	       dAB	      dRPD	      dLPD	      dRLL	      dLLL	      dRKD	      dLKD	      dRMW	      dLMW	   dRHPAD2	    dRHPAD	   dLHPAD2	    dLHPAD	    dMIDAB	
+  1.770000	  0.170000	  0.165000	  0.160000	  0.890000	  0.900000	  0.080000	  0.080000	  0.050000	  0.050000	  0.102350	  0.087350	  0.103500	  0.088500	  0.085000	
+

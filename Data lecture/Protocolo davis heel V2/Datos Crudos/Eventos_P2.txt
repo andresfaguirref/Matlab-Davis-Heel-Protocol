@@ -1,0 +1,12 @@
+BTS ASCII format
+
+Type:         	Event sequences
+Measure unit: 	s
+
+Sequences:    	4
+
+ Item	      eRHS	      eRTO	      eLTO	      eLHS	
+    1	  3.060000	  3.840000	  3.210000	  2.450000	
+    2	  4.340000	          	          	  3.690000	
+
+

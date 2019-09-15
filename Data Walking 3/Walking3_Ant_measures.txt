@@ -1,0 +1,10 @@
+BTS ASCII format
+
+Type:         	Point 1D values
+Measure unit: 	m
+
+Values:       	10
+
+       dTH	       dAB	      dRPD	      dLPD	      dRLL	      dLLL	      dRKD	      dLKD	      dRMW	      dLMW	
+      1.79	      0.28	      0.11	      0.11	      0.89	      0.89	      0.11	      0.11	      0.09	      0.09	
+
